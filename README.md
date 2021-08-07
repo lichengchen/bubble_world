@@ -44,15 +44,21 @@ Press the space key to pause the world and show velocity.
 ***
 ### 经典物理现象演示
 #### 1. 同质量正碰的速度交换
+两个泡泡的颜色每次碰撞都会恰好交换，而不是产生其他颜色。
+
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-2.gif) 
 
 #### 2. 不同质量正碰
+小家伙很活泼，不断将动能传递给大家伙。大家伙的速度相对很难改变。（惯性现象）
+
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-3.gif) 
 
 #### 3. 自由落体；伽利略斜塔实验
+“石头和羽毛同时落地”
+
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-4.gif) 
 
-#### 3. 平抛运动
+#### 3. 投掷/平抛运动
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-5.gif) 
 
 #### 4. 牛顿摆
@@ -67,6 +73,5 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
 #### 7. 躁动的随机世界
-小泡泡到处乱跑，质量大的泡泡更不容易改变速度（惯性）
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
 
