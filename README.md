@@ -33,7 +33,7 @@ Press the space key to pause the world and show velocity.
 ### 泡泡世界的起源
 实习课见前桌玩起老电脑的泡泡屏保，写了这个小玩意杀时间（我们确实要被无聊的实习逼疯了...）
 
-在简洁的基本规则基础上，世界自然地表现出了我们熟知的各种机械运动现象。
+基于简洁的基本规则，世界自然地表现出了我们熟知的各种机械运动现象。
 
 虽然代码很简单，效果却比较有趣，故记录于此。
 
@@ -46,7 +46,7 @@ Press the space key to pause the world and show velocity.
 ***
 ### 经典物理现象演示
 #### 1. 同质量正碰的速度交换
-两个泡泡的颜色每次碰撞都会恰好交换，而不是产生其他颜色。
+两个泡泡的颜色在每次碰撞的瞬间恰好发生交换，而不是产生其他颜色。
 
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-2.gif) 
 
