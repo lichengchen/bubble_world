@@ -1,10 +1,11 @@
 # bubble_world
 A 2D world with cute bubbles that has two **fundamental principles**:
-
+*
 - Conservation of momentum
 - Conservation of energy
+*
 
-And some *other features*:
+And some other features:
 - Uniform areal density
 - No loss of mechanical energy
 - bubbles and the edges of the world are absolute rigid
