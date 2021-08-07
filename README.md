@@ -67,5 +67,6 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
 #### 7. 躁动的随机世界
+小泡泡到处乱跑，质量大的泡泡更不容易改变速度（惯性）
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
 
