@@ -75,5 +75,7 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
 #### 7. 躁动的随机世界
+绝热可逆过程熵变为0. 即使是泡泡世界也不会自发熵减。
+
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
 
