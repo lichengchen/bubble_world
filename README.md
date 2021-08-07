@@ -16,7 +16,7 @@ Load your own config file to create a bubble_world and watch the interesting int
 
 The kinetic energy of single bubbles and the whole world is computed and shown real-time. The color of a bubble implies its kinetic energy(mv^2), for examlpe, a stationary bubble is totally black (RGB color #000000) because its kinetic energy is zero. 
 
-Press the space key to pause the world and show the speed.
+Press the space key to pause the world and show velocity.
 
 *Authored in 2019/4*
 
