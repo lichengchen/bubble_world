@@ -60,6 +60,7 @@ Press the space key to pause the world and show velocity.
 
 #### 4. 牛顿摆-2
 中间的泡泡真是不动如山啊
+
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-7.gif) 
 
 #### 4. 牛顿摆-3
