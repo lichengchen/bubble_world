@@ -22,7 +22,7 @@ Press the space key to pause the world and show velocity.
 
 ***
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-7.gif) 
+![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 ***
 
 ### 泡泡世界的特性
@@ -56,11 +56,11 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-5.gif) 
 
 #### 4. 牛顿摆
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-5.gif) 
-
-#### 4. 牛顿摆-2
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-6.gif) 
 
-#### 4. 牛顿摆-3
+#### 4. 牛顿摆-2
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-7.gif) 
+
+#### 4. 牛顿摆-3
+![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
