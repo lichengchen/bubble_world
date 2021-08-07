@@ -24,7 +24,7 @@ Press the space key to pause the
 *Authored in 2019/4*
 
 ***
-[!image]https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif
+![img](https://github.com/lichengchen/sinPainter/blob/main/4-1.gif) 
 ***
 ### 泡泡世界的起源
 实习课见前桌玩起老电脑的泡泡屏保，写了这个小玩意杀时间（我们确实要被无聊的实习逼疯了...）
