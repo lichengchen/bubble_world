@@ -35,7 +35,7 @@ Press the space key to pause the world and show velocity.
 
 基于简洁的基本规则，泡泡世界自然地表现出了我们熟知的各种机械运动现象。
 
-虽然代码很简单，效果却比较有趣，故记录于此。
+总代码量很少，大概200行左右。 正在学习C++/面向对象概念的朋友可以参考泡泡类（Bubble）的实现。[传送门](https://github.com/lichengchen/bubble_world/blob/main/bubble.h)
 
 ### 使用说明
 - 配置文件设置匀强力场大小方向、各个泡泡半径、初速度大小方向。
@@ -73,6 +73,8 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-7.gif) 
 
 #### 6. 牛顿摆-3
+程序只基于两条基本定律模拟出了多种牛顿摆，是对程序多物体碰撞算法正确性和健壮性的有力证明。
+
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
 #### 7. 躁动的随机世界
@@ -81,4 +83,16 @@ Press the space key to pause the world and show velocity.
 那么问题来了，它有可能熵增吗？
 
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
+
+***
+
+### 碰撞算法
+
+多个物体的碰撞问题是程序的关键。我采用的是回退的方法，一旦更新后的位置不合法（即发生了碰撞）， 就回退到上一个位置，并用碰撞对应的处理方法重新更新状态， 直到每个物体的位置都是合法的，就认为处理好了碰撞。
+
+碰撞的处理方法分为两种：一种是撞到边缘，处理方法是把一个轴方向的分速度取负。 另一种是泡泡的互相碰撞。这时需要用动量守恒和能量守恒两个方程联立来解出两个球球之后的速度。 若两个球的速度矢量分别是v1，v2，质量分别是m1，m2，则有求解公式：
+
+*newV1=((m1-m2)*v1+2*m2*v2)/(m1+m2);*
+
+*newV2=((m2-m1)*v2+2*m1*v1)/(m1+m2);*
 
