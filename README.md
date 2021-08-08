@@ -52,6 +52,7 @@ Press the space key to pause the world and show velocity.
 
 #### 2. 不同质量正碰
 大家伙的速度与小家伙相比更难改变。（惯性现象）
+
 系统是周期性的，大泡泡反弹过程中又把动能完全返还给了小泡泡。
 
 <iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598680&page=6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
