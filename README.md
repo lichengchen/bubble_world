@@ -49,36 +49,36 @@ Press the space key to pause the world and show velocity.
 #### 1. 同质量正碰的速度交换
 两个泡泡的颜色在每次碰撞的瞬间恰好发生交换，而不是产生其他颜色。
 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-2.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598672&page=5" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 2. 不同质量正碰
 小家伙很活泼，不断将动能传递给大家伙。大家伙的速度相对很难改变。（惯性现象）
 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-3.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598680&page=6" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 3. 自由落体
 “石头和羽毛同时落地”
 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-4.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598698&page=7" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 3. 抛物运动
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-5.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598704&page=8" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 4. 牛顿摆
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-6.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598718&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 5. 牛顿摆-2
 中间的泡泡真是不动如山啊
 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-7.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598718&page=9" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 6. 牛顿摆-3
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598732&page=11" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 7. 躁动的随机世界
 孤立系统的熵不会减少。即使泡泡世界不存在机械能-内能转化，也不会自发熵减。
 
 那么问题来了，它有可能熵增吗？
 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598659&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
