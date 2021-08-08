@@ -31,9 +31,9 @@ Press the space key to pause the world and show velocity.
 其他特性：均匀的面密度、绝对刚体、绝对光滑无机械能损失、支持任意方向的匀强力场
 
 ### 泡泡世界的起源
-实习课看到前桌在玩老电脑的泡泡屏保，写了这个小玩意杀时间（我们确实要被实习无聊死了...）
+实习课看到前桌在玩老电脑的泡泡屏保，写了这个小玩意杀时间（我们确实很无聊...）
 
-基于简洁的基本规则，世界自然地表现出了我们熟知的各种机械运动现象。
+基于简洁的基本规则，泡泡世界自然地表现出了我们熟知的各种机械运动现象。
 
 虽然代码很简单，效果却比较有趣，故记录于此。
 
@@ -44,6 +44,7 @@ Press the space key to pause the world and show velocity.
 - 空格键暂停/启动世界，暂停状态展示所有泡泡速度大小方向。
 
 ***
+
 ### 经典物理现象演示
 #### 1. 同质量正碰的速度交换
 两个泡泡的颜色在每次碰撞的瞬间恰好发生交换，而不是产生其他颜色。
@@ -55,12 +56,12 @@ Press the space key to pause the world and show velocity.
 
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-3.gif) 
 
-#### 3. 自由落体；伽利略斜塔实验
+#### 3. 自由落体
 “石头和羽毛同时落地”
 
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-4.gif) 
 
-#### 3. 投掷/平抛运动
+#### 3. 抛物运动
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-5.gif) 
 
 #### 4. 牛顿摆
@@ -75,7 +76,7 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
 #### 7. 躁动的随机世界
-绝热可逆过程熵变为0. 即使是泡泡世界也不会自发熵减。
+即使泡泡世界不存在机械能-内能转化，也不会自发熵减。
 
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
 
