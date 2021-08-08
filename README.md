@@ -76,7 +76,9 @@ Press the space key to pause the world and show velocity.
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
 
 #### 7. 躁动的随机世界
-即使泡泡世界不存在机械能-内能转化，也不会自发熵减。
+孤立系统的熵不会减少。即使泡泡世界不存在机械能-内能转化，也不会自发熵减。
+
+那么问题来了，它有可能熵增吗？
 
 ![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
 
