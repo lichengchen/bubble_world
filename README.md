@@ -21,9 +21,6 @@ Press the space key to pause the world and show velocity.
 *Authored in 2019/4*
 
 ***
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-8.gif) 
-***
 
 ### 泡泡世界的特性
 基本规则：动量守恒、能量守恒
