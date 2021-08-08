@@ -82,7 +82,7 @@ Press the space key to pause the world and show velocity.
 
 那么问题来了，它有可能熵增吗？
 
-![img](https://github.com/lichengchen/bubble_world/blob/main/gifs/6-1.gif) 
+<iframe src="//player.bilibili.com/player.html?aid=84543138&bvid=BV1b7411e7JA&cid=144598659&page=4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ***
 
